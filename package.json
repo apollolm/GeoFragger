@@ -1,0 +1,32 @@
+{
+  "name": "GeoFragger",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ryan Whitley <apollolm@gmail.com>",
+  "description": "Library to convert GeoJSON to PostGIS-compatible GeoJSON fragments.",
+  "contributors": [ 
+    {
+      "name": "Ryan Whitley",
+      "email": "apollolm@gmail.com"
+    } 
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+    "geojson-validation": "*",
+    "flow": "*"  },
+  "optionalDependencies":{
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "PostGIS",
+    "Maps",
+    "GIS",
+    "GeoJSON"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apollolm/GeoFragger.git"
+  }
+}
